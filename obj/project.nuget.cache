@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTbKW7eJABtk9HDzgas9h39eyMUdq/K1zcfJjMH4qqkGGe2bjWV1nGyyo800zupZT/1UIO9m+gdHhz54ck0ngg==",
+  "success": false,
+  "projectFilePath": "V:\\dev\\WeLoveCommunity\\WeLoveCommunity.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.TeamsFx. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.TeamsFx",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Fast.Components.FluentUI. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Fast.Components.FluentUI",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Authentication.JwtBearer. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Graph. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Graph",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
